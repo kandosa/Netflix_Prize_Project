@@ -20,6 +20,7 @@ EDA notebook:
 * Created plots for training time cost in Databricks
 
 <br>
+
 Netflix_proj notebook: 
 * [Netflix_proj.ipynb](https://github.com/kandosa/Netflix_Prize_Project/blob/main/Netflix_proj.ipynb)
 * Built models using Pyspark.ml.ALS
