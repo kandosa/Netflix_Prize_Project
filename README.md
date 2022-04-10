@@ -13,7 +13,7 @@ FInal project for course BIA 678 Big data & Technology
 
 <br>
 
-EDA notebook: 
+## EDA notebook: 
 * [EDA.ipynb](https://github.com/kandosa/Netflix_Prize_Project/blob/main/eda.ipynb)
 * Combined txt files into one dataframe, and save in csv format
 * Performed exploratory data analysis
@@ -21,7 +21,7 @@ EDA notebook:
 
 <br>
 
-Netflix_proj notebook: 
+## Netflix_proj notebook: 
 * [Netflix_proj.ipynb](https://github.com/kandosa/Netflix_Prize_Project/blob/main/Netflix_proj.ipynb)
 * Built models using Pyspark.ml.ALS
 * Used ParamGridBuilder to hyperparameter tuning ALS
