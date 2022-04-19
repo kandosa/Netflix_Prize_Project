@@ -30,6 +30,7 @@ FInal project for course BIA 678 Big data & Technology
 <br>
 
 ## TLDR:
+* As scale increases, the training model will generally increase the performance of the model, at the same time the time cost of training will increase when the scale increases
 * x-axis are scale of training data for both plots
 * y-axis for left plot is time cost in hours, y-axis for the right plot is RMSE score
 
