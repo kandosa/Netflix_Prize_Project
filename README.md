@@ -26,3 +26,11 @@ FInal project for course BIA 678 Big data & Technology
 * Built models using Pyspark.ml.ALS
 * Used ParamGridBuilder to hyperparameter tuning ALS
 * Train multiple models on different training size to examine how the size of training data may affect on performance and time consuming
+
+<br>
+
+## TLDR:
+* x-axis are scale of training data for both plots
+* y-axis for left plot is time cost in hours, y-axis for the right plot is RMSE score
+
+![BIA 678 project report_Img0](https://user-images.githubusercontent.com/43526555/163901166-d0bdf676-ce54-42a0-83a1-e179f694353c.png)
